@@ -1,0 +1,62 @@
+.first-container {
+  border: 3px solid black;
+  padding: 15px;
+}
+
+.purple {
+  background-color: purple;
+  width: 40px;
+  height: 120px;
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.green {
+  background-color: green;
+  width: 300px;
+  height: 150px;
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.blue {
+  background-color: rgb(131, 159, 216);
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.second-container {
+  margin-top: 20px;
+  padding: 30px 0;
+  border: 5px dotted black;
+}
+
+.sand {
+  background: lemonchiffon;
+  width: 90%;
+  margin: 0 auto;
+  height: 150px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.third-container {
+  width: 50%;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  padding: 100px;
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.third-container h1 {
+  text-align: center;
+  color: navy;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
